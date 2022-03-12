@@ -1,0 +1,1495 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://www.der-mond.de/
+METHOD: PUBLISH
+BEGIN:VEVENT
+UID:mondphase-version020220-20200103T044500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den frühen Morgenstunden um 05.45 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Walfisch (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200103T044500Z
+DTSTART:20200103T054500
+DTSTAMP:20211004T000112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200110T192100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Abendstunden um 20.21 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Zwillinge (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200110T192100Z
+DTSTART:20200110T202100
+DTSTAMP:20211004T000112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200117T125800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Mittagsstunden um 13.58 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200117T125800Z
+DTSTART:20200117T135800
+DTSTAMP:20211004T000112Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200124T214200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in der Nacht um 22.42 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Steinbock (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200124T214200Z
+DTSTART:20200124T224200
+DTSTAMP:20211004T000113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200202T014200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 02.42 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Widder (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200202T014200Z
+DTSTART:20200202T024200
+DTSTAMP:20211004T000113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200209T073300@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Morgenstunden um 08.33 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Löwe (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200209T073300Z
+DTSTART:20200209T083300
+DTSTAMP:20211004T000113Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200215T221700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 23.17 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Waage (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200215T221700Z
+DTSTART:20200215T231700
+DTSTAMP:20211004T000114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200223T153200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Nachmittagsstunden um 16.32 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Wassermann (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200223T153200Z
+DTSTART:20200223T163200
+DTSTAMP:20211004T000114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200302T195700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Abendstunden um 20.57 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Stier (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200302T195700Z
+DTSTART:20200302T205700
+DTSTAMP:20211004T000114Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200309T174800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Abendstunden um 18.48 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Löwe (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200309T174800Z
+DTSTART:20200309T184800
+DTSTAMP:20211004T000115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200316T093400@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Morgenstunden um 10.34 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schlangenträger (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200316T093400Z
+DTSTART:20200316T103400
+DTSTAMP:20211004T000115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200324T092800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Morgenstunden um 10.28 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Fische (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200324T092800Z
+DTSTART:20200324T102800
+DTSTAMP:20211004T000115Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200401T102100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Mittagsstunden um 12.21 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Zwillinge (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200401T102100Z
+DTSTART:20200401T122100
+DTSTAMP:20211004T000116Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200408T023500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den frühen Morgenstunden um 04.35 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200408T023500Z
+DTSTART:20200408T043500
+DTSTAMP:20211004T000116Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200414T225600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 00.56 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schütze (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200414T225600Z
+DTSTART:20200415T005600
+DTSTAMP:20211004T000116Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200423T022600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den frühen Morgenstunden um 04.26 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Walfisch (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200423T022600Z
+DTSTART:20200423T042600
+DTSTAMP:20211004T000117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200430T203800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 22.38 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Krebs (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200430T203800Z
+DTSTART:20200430T223800
+DTSTAMP:20211004T000117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200507T104500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Mittagsstunden um 12.45 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Waage (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200507T104500Z
+DTSTART:20200507T124500
+DTSTAMP:20211004T000117Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200514T140300@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Nachmittagsstunden um 16.03 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Steinbock (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200514T140300Z
+DTSTART:20200514T160300
+DTSTAMP:20211004T000118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200522T173900@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Abendstunden um 19.39 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Stier (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200522T173900Z
+DTSTART:20200522T193900
+DTSTAMP:20211004T000118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200530T033000@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den frühen Morgenstunden um 05.30 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Löwe (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200530T033000Z
+DTSTART:20200530T053000
+DTSTAMP:20211004T000118Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200605T191200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Abendstunden um 21.12 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schlangenträger (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200605T191200Z
+DTSTART:20200605T211200
+DTSTAMP:20211004T000119Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200613T062400@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Morgenstunden um 08.24 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Wassermann (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200613T062400Z
+DTSTART:20200613T082400
+DTSTAMP:20211004T000119Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200621T064100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Morgenstunden um 08.41 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Zwillinge (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200621T064100Z
+DTSTART:20200621T084100
+DTSTAMP:20211004T000119Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200628T081600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Morgenstunden um 10.16 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200628T081600Z
+DTSTART:20200628T101600
+DTSTAMP:20211004T000120Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200705T044400@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Morgenstunden um 06.44 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schütze (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200705T044400Z
+DTSTART:20200705T064400
+DTSTAMP:20211004T000120Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200712T232900@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 01.29 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Fische (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200712T232900Z
+DTSTART:20200713T012900
+DTSTAMP:20211004T000120Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200720T173300@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Abendstunden um 19.33 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Krebs (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200720T173300Z
+DTSTART:20200720T193300
+DTSTAMP:20211004T000121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200727T123300@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Nachmittagsstunden um 14.33 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200727T123300Z
+DTSTART:20200727T143300
+DTSTAMP:20211004T000121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200803T155900@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Abendstunden um 17.59 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Steinbock (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200803T155900Z
+DTSTART:20200803T175900
+DTSTAMP:20211004T000121Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200811T164500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Abendstunden um 18.45 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Widder (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200811T164500Z
+DTSTART:20200811T184500
+DTSTAMP:20211004T000122Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200819T024200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den frühen Morgenstunden um 04.42 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Löwe (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200819T024200Z
+DTSTART:20200819T044200
+DTSTAMP:20211004T000122Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200825T175800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Abendstunden um 19.58 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Skorpion (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200825T175800Z
+DTSTART:20200825T195800
+DTSTAMP:20211004T000122Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200902T052200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Morgenstunden um 07.22 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Wassermann (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200902T052200Z
+DTSTART:20200902T072200
+DTSTAMP:20211004T000123Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200910T092600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 11.26 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Stier (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200910T092600Z
+DTSTART:20200910T112600
+DTSTAMP:20211004T000123Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200917T110000@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Mittagsstunden um 13.00 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200917T110000Z
+DTSTART:20200917T130000
+DTSTAMP:20211004T000124Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20200924T015500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 03.55 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schütze (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20200924T015500Z
+DTSTART:20200924T035500
+DTSTAMP:20211004T000124Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20201001T210500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in der Nacht um 23.05 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Walfisch (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20201001T210500Z
+DTSTART:20201001T230500
+DTSTAMP:20211004T000124Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20201010T004000@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 02.40 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Zwillinge (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20201010T004000Z
+DTSTART:20201010T024000
+DTSTAMP:20211004T000125Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20201016T193100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Abendstunden um 21.31 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20201016T193100Z
+DTSTART:20201016T213100
+DTSTAMP:20211004T000125Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20201023T132300@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Nachmittagsstunden um 15.23 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Steinbock (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20201023T132300Z
+DTSTART:20201023T152300
+DTSTAMP:20211004T000125Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20201031T144900@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Nachmittagsstunden um 15.49 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Widder (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20201031T144900Z
+DTSTART:20201031T154900
+DTSTAMP:20211004T000126Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20201108T134600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Nachmittagsstunden um 14.46 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Krebs (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20201108T134600Z
+DTSTART:20201108T144600
+DTSTAMP:20211004T000126Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20201115T050700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Morgenstunden um 06.07 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Waage (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20201115T050700Z
+DTSTART:20201115T060700
+DTSTAMP:20211004T000126Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20201122T044500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den frühen Morgenstunden um 05.45 Uhr (MEZ) im ersten Viertel. Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20201122T044500Z
+DTSTART:20201122T054500
+DTSTAMP:20211004T000127Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20201130T093000@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Morgenstunden um 10.30 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Stier (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20201130T093000Z
+DTSTART:20201130T103000
+DTSTAMP:20211004T000127Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20201208T003700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 01.37 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Löwe (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20201208T003700Z
+DTSTART:20201208T013700
+DTSTAMP:20211004T000127Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20201214T161700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Abendstunden um 17.17 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schlangenträger (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20201214T161700Z
+DTSTART:20201214T171700
+DTSTAMP:20211004T000128Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20201221T234100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 00.41 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Fische (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20201221T234100Z
+DTSTART:20201222T004100
+DTSTAMP:20211004T000128Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20201230T032800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den frühen Morgenstunden um 04.28 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Zwillinge (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20201230T032800Z
+DTSTART:20201230T042800
+DTSTAMP:20211004T000129Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210106T093700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Morgenstunden um 10.37 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210106T093700Z
+DTSTART:20210106T103700
+DTSTAMP:20211004T000129Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210113T050000@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Morgenstunden um 06.00 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schütze (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210113T050000Z
+DTSTART:20210113T060000
+DTSTAMP:20211004T000129Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210120T210200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 22.02 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Fische (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210120T210200Z
+DTSTART:20210120T220200
+DTSTAMP:20211004T000130Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210128T191600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Abendstunden um 20.16 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Krebs (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210128T191600Z
+DTSTART:20210128T201600
+DTSTAMP:20211004T000130Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210204T173700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Abendstunden um 18.37 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Waage (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210204T173700Z
+DTSTART:20210204T183700
+DTSTAMP:20211004T000130Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210211T190600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Abendstunden um 20.06 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Steinbock (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210211T190600Z
+DTSTART:20210211T200600
+DTSTAMP:20211004T000131Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210219T184700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Abendstunden um 19.47 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Stier (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210219T184700Z
+DTSTART:20210219T194700
+DTSTAMP:20211004T000131Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210227T081700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Morgenstunden um 09.17 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Löwe (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210227T081700Z
+DTSTART:20210227T091700
+DTSTAMP:20211004T000131Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210306T013000@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 02.30 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schlangenträger (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210306T013000Z
+DTSTART:20210306T023000
+DTSTAMP:20211004T000132Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210313T102100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in der Nacht um 11.21 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Wassermann (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210313T102100Z
+DTSTART:20210313T112100
+DTSTAMP:20211004T000132Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210321T144000@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Nachmittagsstunden um 15.40 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Zwillinge (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210321T144000Z
+DTSTART:20210321T154000
+DTSTAMP:20211004T000133Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210328T184800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Abendstunden um 20.48 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Kleine Wasserschlange (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210328T184800Z
+DTSTART:20210328T204800
+DTSTAMP:20211004T000133Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210404T100200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Mittagsstunden um 12.02 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schütze (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210404T100200Z
+DTSTART:20210404T120200
+DTSTAMP:20211004T000133Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210412T023100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den frühen Morgenstunden um 04.31 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Fische (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210412T023100Z
+DTSTART:20210412T043100
+DTSTAMP:20211004T000134Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210420T065900@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Morgenstunden um 08.59 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Krebs (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210420T065900Z
+DTSTART:20210420T085900
+DTSTAMP:20211004T000134Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210427T033100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den frühen Morgenstunden um 05.31 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Waage (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210427T033100Z
+DTSTART:20210427T053100
+DTSTAMP:20211004T000134Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210503T195000@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Abendstunden um 21.50 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Steinbock (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210503T195000Z
+DTSTART:20210503T215000
+DTSTAMP:20211004T000135Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210511T190000@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Abendstunden um 21.00 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Widder (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210511T190000Z
+DTSTART:20210511T210000
+DTSTAMP:20211004T000135Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210519T191300@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Abendstunden um 21.13 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Löwe (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210519T191300Z
+DTSTART:20210519T211300
+DTSTAMP:20211004T000135Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210526T111400@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Mittagsstunden um 13.14 Uhr (MESZ) Vollmond. Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210526T111400Z
+DTSTART:20210526T131400
+DTSTAMP:20211004T000136Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210602T072400@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Morgenstunden um 09.24 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Wassermann (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210602T072400Z
+DTSTART:20210602T092400
+DTSTAMP:20211004T000136Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210610T105300@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Mittagsstunden um 12.53 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Stier (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210610T105300Z
+DTSTART:20210610T125300
+DTSTAMP:20211004T000136Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210618T035400@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den frühen Morgenstunden um 05.54 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210618T035400Z
+DTSTART:20210618T055400
+DTSTAMP:20211004T000137Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210624T184000@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Abendstunden um 20.40 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schütze (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210624T184000Z
+DTSTART:20210624T204000
+DTSTAMP:20211004T000137Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210701T211100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 23.11 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Walfisch (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210701T211100Z
+DTSTART:20210701T231100
+DTSTAMP:20211004T000138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210710T011700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in der Nacht um 03.17 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Zwillinge (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210710T011700Z
+DTSTART:20210710T031700
+DTSTAMP:20211004T000138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210717T101100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Mittagsstunden um 12.11 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210717T101100Z
+DTSTART:20210717T121100
+DTSTAMP:20211004T000138Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210724T023700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den frühen Morgenstunden um 04.37 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Steinbock (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210724T023700Z
+DTSTART:20210724T043700
+DTSTAMP:20211004T000139Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210731T131600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Nachmittagsstunden um 15.16 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Widder (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210731T131600Z
+DTSTART:20210731T151600
+DTSTAMP:20211004T000139Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210808T135000@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Nachmittagsstunden um 15.50 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Krebs (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210808T135000Z
+DTSTART:20210808T155000
+DTSTAMP:20211004T000139Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210815T152000@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Abendstunden um 17.20 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Waage (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210815T152000Z
+DTSTART:20210815T172000
+DTSTAMP:20211004T000140Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210822T120200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Nachmittagsstunden um 14.02 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Wassermann (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210822T120200Z
+DTSTART:20210822T140200
+DTSTAMP:20211004T000140Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210830T071300@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Morgenstunden um 09.13 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Stier (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210830T071300Z
+DTSTART:20210830T091300
+DTSTAMP:20211004T000140Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210907T005200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in der Nacht um 02.52 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Löwe (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210907T005200Z
+DTSTART:20210907T025200
+DTSTAMP:20211004T000141Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210913T203900@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 22.39 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schlangenträger (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210913T203900Z
+DTSTART:20210913T223900
+DTSTAMP:20211004T000141Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210920T235500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in der Nacht um 01.55 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Fische (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210920T235500Z
+DTSTART:20210921T015500
+DTSTAMP:20211004T000141Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20210929T015700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 03.57 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Zwillinge (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20210929T015700Z
+DTSTART:20210929T035700
+DTSTAMP:20211004T000142Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20211006T110500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Mittagsstunden um 13.05 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20211006T110500Z
+DTSTART:20211006T130500
+DTSTAMP:20211004T000142Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20211013T032500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den frühen Morgenstunden um 05.25 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schütze (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20211013T032500Z
+DTSTART:20211013T052500
+DTSTAMP:20211004T000142Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20211020T145700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Nachmittagsstunden um 16.57 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Fische (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20211020T145700Z
+DTSTART:20211020T165700
+DTSTAMP:20211004T000143Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20211028T200500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 22.05 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Krebs (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20211028T200500Z
+DTSTART:20211028T220500
+DTSTAMP:20211004T000143Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20211104T211500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in der Nacht um 22.15 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Waage (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20211104T211500Z
+DTSTART:20211104T221500
+DTSTAMP:20211004T000143Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20211111T124600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Mittagsstunden um 13.46 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Steinbock (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20211111T124600Z
+DTSTART:20211111T134600
+DTSTAMP:20211004T000144Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20211119T085700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Morgenstunden um 09.57 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Stier (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20211119T085700Z
+DTSTART:20211119T095700
+DTSTAMP:20211004T000144Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20211127T122800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Mittagsstunden um 13.28 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Löwe (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20211127T122800Z
+DTSTART:20211127T132800
+DTSTAMP:20211004T000144Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20211204T074300@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Morgenstunden um 08.43 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schlangenträger (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20211204T074300Z
+DTSTART:20211204T084300
+DTSTAMP:20211004T000145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20211211T013600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 02.36 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Wassermann (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20211211T013600Z
+DTSTART:20211211T023600
+DTSTAMP:20211004T000145Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20211219T043500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den frühen Morgenstunden um 05.35 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Stier (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20211219T043500Z
+DTSTART:20211219T053500
+DTSTAMP:20211004T000146Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20211227T022400@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 03.24 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20211227T022400Z
+DTSTART:20211227T032400
+DTSTAMP:20211004T000146Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220102T183300@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Abendstunden um 19.33 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schütze (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220102T183300Z
+DTSTART:20220102T193300
+DTSTAMP:20211004T000146Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220109T181100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Abendstunden um 19.11 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Fische (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220109T181100Z
+DTSTART:20220109T191100
+DTSTAMP:20211004T000147Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220117T234800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in der Nacht um 00.48 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Krebs (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220117T234800Z
+DTSTART:20220118T004800
+DTSTAMP:20211004T000147Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220125T134100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Nachmittagsstunden um 14.41 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220125T134100Z
+DTSTART:20220125T144100
+DTSTAMP:20211004T000147Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220201T054600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Morgenstunden um 06.46 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Steinbock (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220201T054600Z
+DTSTART:20220201T064600
+DTSTAMP:20211004T000148Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220208T135000@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Nachmittagsstunden um 14.50 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Widder (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220208T135000Z
+DTSTART:20220208T145000
+DTSTAMP:20211004T000148Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220216T165600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Abendstunden um 17.56 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Löwe (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220216T165600Z
+DTSTART:20220216T175600
+DTSTAMP:20211004T000148Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220223T223200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 23.32 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Skorpion (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220223T223200Z
+DTSTART:20220223T233200
+DTSTAMP:20211004T000149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220302T173500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Abendstunden um 18.35 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Wassermann (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220302T173500Z
+DTSTART:20220302T183500
+DTSTAMP:20211004T000149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220310T104500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 11.45 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Stier (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220310T104500Z
+DTSTART:20220310T114500
+DTSTAMP:20211004T000149Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220318T071800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Morgenstunden um 08.18 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220318T071800Z
+DTSTART:20220318T081800
+DTSTAMP:20211004T000150Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220325T053700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Morgenstunden um 06.37 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schütze (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220325T053700Z
+DTSTART:20220325T063700
+DTSTAMP:20211004T000150Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220401T062400@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Morgenstunden um 08.24 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Walfisch (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220401T062400Z
+DTSTART:20220401T082400
+DTSTAMP:20211004T000151Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220409T064800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Morgenstunden um 08.48 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Zwillinge (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220409T064800Z
+DTSTART:20220409T084800
+DTSTAMP:20211004T000151Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220416T185500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Abendstunden um 20.55 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220416T185500Z
+DTSTART:20220416T205500
+DTSTAMP:20211004T000151Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220423T115600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Mittagsstunden um 13.56 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Steinbock (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220423T115600Z
+DTSTART:20220423T135600
+DTSTAMP:20211004T000152Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220430T202800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in der Nacht um 22.28 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Widder (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220430T202800Z
+DTSTART:20220430T222800
+DTSTAMP:20211004T000152Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220509T002100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 02.21 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Löwe (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220509T002100Z
+DTSTART:20220509T022100
+DTSTAMP:20211004T000152Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220516T041400@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Morgenstunden um 06.14 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Waage (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220516T041400Z
+DTSTART:20220516T061400
+DTSTAMP:20211004T000153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220522T184300@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Abendstunden um 20.43 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Wassermann (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220522T184300Z
+DTSTART:20220522T204300
+DTSTAMP:20211004T000153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220530T113000@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Mittagsstunden um 13.30 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Stier (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220530T113000Z
+DTSTART:20220530T133000
+DTSTAMP:20211004T000153Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220607T144800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Nachmittagsstunden um 16.48 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Löwe (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220607T144800Z
+DTSTART:20220607T164800
+DTSTAMP:20211004T000154Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220614T115200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Mittagsstunden um 13.52 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schlangenträger (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220614T115200Z
+DTSTART:20220614T135200
+DTSTAMP:20211004T000154Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220621T031100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den frühen Morgenstunden um 05.11 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Fische (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220621T031100Z
+DTSTART:20220621T051100
+DTSTAMP:20211004T000154Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220629T025200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den frühen Morgenstunden um 04.52 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Zwillinge (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220629T025200Z
+DTSTART:20220629T045200
+DTSTAMP:20211004T000155Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220707T021400@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den frühen Morgenstunden um 04.14 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220707T021400Z
+DTSTART:20220707T041400
+DTSTAMP:20211004T000155Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220713T183800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Abendstunden um 20.38 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schütze (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220713T183800Z
+DTSTART:20220713T203800
+DTSTAMP:20211004T000155Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220720T141900@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Nachmittagsstunden um 16.19 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Fische (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220720T141900Z
+DTSTART:20220720T161900
+DTSTAMP:20211004T000156Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220728T175500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Abendstunden um 19.55 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Krebs (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220728T175500Z
+DTSTART:20220728T195500
+DTSTAMP:20211004T000156Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220805T110700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Mittagsstunden um 13.07 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Waage (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220805T110700Z
+DTSTART:20220805T130700
+DTSTAMP:20211004T000156Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220812T013600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in der Nacht um 03.36 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Steinbock (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220812T013600Z
+DTSTART:20220812T033600
+DTSTAMP:20211004T000157Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220819T043600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Morgenstunden um 06.36 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Stier (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220819T043600Z
+DTSTART:20220819T063600
+DTSTAMP:20211004T000157Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220827T081700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Morgenstunden um 10.17 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Löwe (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220827T081700Z
+DTSTART:20220827T101700
+DTSTAMP:20211004T000157Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220903T180800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Abendstunden um 20.08 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Skorpion (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220903T180800Z
+DTSTART:20220903T200800
+DTSTAMP:20211004T000158Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220910T095900@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in der Nacht um 11.59 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Wassermann (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220910T095900Z
+DTSTART:20220910T115900
+DTSTAMP:20211004T000158Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220917T215200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 23.52 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Stier (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220917T215200Z
+DTSTART:20220917T235200
+DTSTAMP:20211004T000158Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20220925T215500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in der Nacht um 23.55 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20220925T215500Z
+DTSTART:20220925T235500
+DTSTAMP:20211004T000159Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20221003T001400@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 02.14 Uhr (MESZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schütze (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20221003T001400Z
+DTSTART:20221003T021400
+DTSTAMP:20211004T000159Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20221009T205500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in der Nacht um 22.55 Uhr (MESZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Fische (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20221009T205500Z
+DTSTART:20221009T225500
+DTSTAMP:20211004T000200Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20221017T171500@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Abendstunden um 19.15 Uhr (MESZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Zwillinge (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20221017T171500Z
+DTSTART:20221017T191500
+DTSTAMP:20211004T000200Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20221025T104900@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in den Mittagsstunden um 12.49 Uhr (MESZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20221025T104900Z
+DTSTART:20221025T124900
+DTSTAMP:20211004T000200Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20221101T063700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Morgenstunden um 07.37 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Steinbock (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20221101T063700Z
+DTSTART:20221101T073700
+DTSTAMP:20211004T000201Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20221108T110200@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den Mittagsstunden um 12.02 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Widder (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20221108T110200Z
+DTSTART:20221108T120200
+DTSTAMP:20211004T000201Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20221116T132700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Nachmittagsstunden um 14.27 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Löwe (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20221116T132700Z
+DTSTART:20221116T142700
+DTSTAMP:20211004T000202Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20221123T225700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in der Nacht um 23.57 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Skorpion (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20221123T225700Z
+DTSTART:20221123T235700
+DTSTAMP:20211004T000202Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20221130T143700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Nachmittagsstunden um 15.37 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Wassermann (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20221130T143700Z
+DTSTART:20221130T153700
+DTSTAMP:20211004T000202Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20221208T040800@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Vollmond
+DESCRIPTION: Heute ist in den frühen Morgenstunden um 05.08 Uhr (MEZ) Vollmond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Stier (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20221208T040800Z
+DTSTART:20221208T050800
+DTSTAMP:20211004T000203Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20221216T085600@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im letzten Viertel
+DESCRIPTION: Heute befindet sich der Mond in den Morgenstunden um 09.56 Uhr (MEZ) im letztes Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Jungfrau (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20221216T085600Z
+DTSTART:20221216T095600
+DTSTAMP:20211004T000203Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20221223T101700@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Neumond
+DESCRIPTION: Heute ist in der Nacht um 11.17 Uhr (MEZ) Neumond. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Schütze (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20221223T101700Z
+DTSTART:20221223T111700
+DTSTAMP:20211004T000203Z
+END:VEVENT
+BEGIN:VEVENT
+UID:mondphase-version020220-20221230T012100@www.der-mond.de
+ORGANIZER;CN="Stefan van Ree, www.der-mond.de":mailto:noreply@der-mond.de
+SUMMARY:Mond im ersten Viertel
+DESCRIPTION: Heute befindet sich der Mond in der Nacht um 02.21 Uhr (MEZ) im ersten Viertel. Zum diesem Zeitpunkt befindet sich der Mond im Sternbild Walfisch (astronomisch). Ein Service von https://www.der-mond.de/
+CLASS:PUBLIC
+DTSTART:20221230T012100Z
+DTSTART:20221230T022100
+DTSTAMP:20211004T000204Z
+END:VEVENT
+END:VCALENDAR

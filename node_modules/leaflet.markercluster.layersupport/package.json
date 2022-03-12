@@ -1,0 +1,45 @@
+{
+  "name": "leaflet.markercluster.layersupport",
+  "_name": "Leaflet.MarkerCluster.LayerSupport",
+  "version": "2.0.1",
+  "_year": "2015-2018",
+  "description": "Sub-plugin for Leaflet.markercluster plugin (MCG in short); brings compatibility with L.Control.Layers and other Leaflet plugins.",
+  "main": "dist/leaflet.markercluster.layersupport",
+  "files": [
+    "dist/*.js",
+    "dist/*.map"
+  ],
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "build": "jake build",
+    "docs": "jake buildDocs",
+    "version": "npm run build && npm run docs && git add README.md",
+    "postversion": "npm run build",
+    "prepublish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ghybs/Leaflet.MarkerCluster.LayerSupport.git"
+  },
+  "keywords": [
+    "leaflet",
+    "leaflet.makercluster",
+    "plugins",
+    "maps",
+    "layers",
+    "control"
+  ],
+  "author": "Boris Seang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ghybs/Leaflet.MarkerCluster.LayerSupport/issues"
+  },
+  "homepage": "https://github.com/ghybs/Leaflet.MarkerCluster.LayerSupport#readme",
+  "devDependencies": {
+    "git-rev": "^0.2.1",
+    "magic-string": "^0.11.4",
+    "uglify-js": "^2.6.2"
+  }
+}

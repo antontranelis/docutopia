@@ -1,0 +1,17 @@
+.autocomplete-content {
+  background-color: #fff !important;
+  overflow-x: hidden;
+  color: #000;
+}
+
+.autocomplete-content li span {
+  color: #000;
+}
+
+.autocomplete-content li:hover {
+  background-color: #aaa;
+}
+
+.autocomplete-content li .highlight {
+  color: brown;
+}
